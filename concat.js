@@ -8,3 +8,4 @@ let d=a.concat(b," love you")
 console.log(d)
 
 // it can take multiple strings as arguments and join them all together
+// multiple commas are used to separate the strings to be joined
